@@ -1,4 +1,4 @@
-### Hi there 👋 from me and my github.
+### Hello there 👋 
 📫 Visit my portfolio [here](https://jaissugam.github.io/portfolio/) 
 <!--
 **jaissugam/jaissugam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
