@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaissugam&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaissugam&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaissugam&layout=compact&langs_count=6&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
