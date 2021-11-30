@@ -1,5 +1,5 @@
-### Hello there 👋 
-📫 Visit my portfolio [here](https://jaissugam.github.io/) 
+## Hello there 👋 
+### 📫 Visit my portfolio [here](https://jaissugam.github.io/) 
 <!--
 **jaissugam/jaissugam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
